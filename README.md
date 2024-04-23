@@ -1,3 +1,3 @@
 # Tic Tac Toe
 Simple program
-psio
+psio 24
